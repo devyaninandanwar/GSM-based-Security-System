@@ -3,7 +3,7 @@
 #include <SoftwareSerial.h>
 SoftwareSerial SIM900(2, 13); 
 Servo servo_test;        //initialize a servo object for the connected servo  
-                
+                //initialize a servo object for the connected servo
 int angle = 0; 
 int x=0;
 const byte ROWS = 4; //four rows
@@ -102,5 +102,4 @@ SIM900.println("ATH"); // disconnect after 30 second
 Serial.println("ATH");
 Serial.println("Message sent");
 Serial.println("Not Safe");
-
 }
