@@ -63,4 +63,16 @@ Maulana Azad National Institute of Technology, Bhopal, India
 4. Run the simulation and interact with the virtual keypad.
 
 ## Project Structure
+GSM-based-Security-System/ ├── CircuitDesign/ │ └── DigitalLockSystem.pdsprj ├── ArduinoCode/ │ └── digital_lock.ino ├── Images/ │ └── CircuitDiagram.png ├── Publication/ │ └── Simulation_of_Digital_Lock_System_with_GSM.pdf └── README.md
+
+
+## License
+
+This project is distributed under the MIT License.
+
+## Contact
+
+**Devyani Nandanwar**  
+Email: dnandanwar5@gmail.com  
+LinkedIn: https://www.linkedin.com/in/devyani-nandanwar/
 
