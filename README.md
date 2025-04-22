@@ -70,9 +70,4 @@ GSM-based-Security-System/ ├── CircuitDesign/ │ └── DigitalLockSys
 
 This project is distributed under the MIT License.
 
-## Contact
-
-**Devyani Nandanwar**  
-Email: dnandanwar5@gmail.com  
-LinkedIn: https://www.linkedin.com/in/devyani-nandanwar/
 
